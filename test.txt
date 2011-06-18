@@ -4,4 +4,6 @@ Added this line.
 
 Added a third line and commited locally.
 
-Fourth line added - pushed.
+Fourth line added.
+
+Fifth line added - this can be pushed from commit dialog.
